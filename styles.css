@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.two{
+	width: 200px;
+}
+
+table, tr, td{
+	border: 1px solid black;
+}
+
+.six{
+	width: 600px;
+}
