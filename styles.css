@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 .two{
 	width: 200px;
+	height: 60px;
 }
 
 table, tr, td{
@@ -9,4 +10,5 @@ table, tr, td{
 
 .six{
 	width: 600px;
+	height: 60px;
 }
